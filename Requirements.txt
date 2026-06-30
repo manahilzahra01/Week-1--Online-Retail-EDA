@@ -1,0 +1,10 @@
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+openpyxl>=3.1.0
+
+The following libraries were used in this project:
+Pandas: Used for loading, cleaning, and analyzing the dataset.
+Matplotlib: Used for creating charts and graphs such as bar charts and line graphs.
+Seaborn: Used for advanced visualizations, including the correlation heatmap and box plots.
+OpenPyXL: Used to read the Excel (.xlsx) dataset in Python.
